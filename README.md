@@ -15,7 +15,7 @@ A rapid overview of my primary domains of expertise:
 * 🛡️ **Information Security & Software Developer:** Full-stack architecture with a growing specialization in network vulnerabilities, ethical hacking, and secure coding methodologies within Unix-based environments.
 * ✈️ **Aerospace & Robotics Engineer:** Former two-year technical lead for the Üsküdar UAV Team. Decorated veteran of the MEB and MEM national robotics circuits, specializing in autonomous navigation and FRC-compliant mechanics.
 * 🎨 **Digital Design & 3D Generalist:** Fluent in industry-standard CAD, 3D modeling, and the Adobe Creative Cloud ecosystem, viewing design as the ultimate frontend for robust engineering.
-* 🎬 **Award-Winning Cinematographer:** Recognized director and editor, with documentary work celebrated at the national level, including finalist placement at the TRT International Documentary Awards.
+* 🎬 **Award-Winning Cinematographer:** Recognized director and editor, with documentary work celebrated at the national level, being third at the TRT International Documentary Awards.
 
 ---
 
