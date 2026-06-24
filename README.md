@@ -43,7 +43,7 @@ Operating at the intersection of engineering and art, I am an accomplished graph
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 *Supplementary Formats:* JSON, JSONL, SQL, DB Management.
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Actually Indians & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### ⚙️ Hardware Development, CAD & 3D Engineering
@@ -81,7 +81,7 @@ A curated archive of past and ongoing engineering, software, and cinematic proje
 **✈️ Aerospace & RC Engineering**
 * **Üsküdar UAV Team:** Served a two-year tenure as Technical Team Leader at Üsküdar BİLSEM.
 * **Aviation & Marine:** Engineered 8 RC Planes, 4 RC Cars, and 3 RC Boats.
-* **Astronautics & Propulsion:** Designed 2 RC Rockets, a satellite prototype, an auto-ejecting system for the Centauri Carbon, and synthesized custom Solid Rocket Propellant (*Katı Roket Yakıtı*).
+* **Astronautics & Propulsion:** Designed 2 RC Rockets, a satellite prototype, an auto-ejecting system for the Elegoo Centauri Carbon, and synthesized custom Solid Rocket Propellant (*Katı Roket Yakıtı*).
 
 **🎬 Filmography & Media Production**
 * ***Yitik Zamanın İzinde:*** Finalist at the 17th TRT National Documentary Competition (Awaiting final results).
