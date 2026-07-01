@@ -4,13 +4,13 @@
 
 **Multidisciplinary Engineer | Aerospace & Robotics Architect | Cinematographer | Full-Stack Developer**
 
-I am an 11th-grade scholar at Ahmet Keleşoğlu Fen Lisesi in Istanbul, cultivating a rigorous, multidisciplinary methodology that synthesizes complex hardware engineering, advanced software architecture, and professional cinematic production. With a steadfast trajectory toward a degree in Electrical-Electronics or Mechanical Engineering, I specialize in architecting holistic systems—from low-level microcontroller firmware to high-fidelity visual media.
+Hey there! I am an 11th grade student at Ahmet Keleşoğlu Fen Lisesi in Istanbul, I am working with UAV's for +5 years, writing code since 6th grade. I am working in various disciplines such as Electronics, Mechanics, CAD, Data Analysing, Mechantronics, Aerospace, Filmmaking, Photography, Graphics Designer, Syber Security, AI Training...
 
 ---
 
 ## ⚡ Executive Summary
 
-A rapid overview of my primary domains of expertise:
+A rapid overview of me:
 * 🛠️ **Systems Architect & Hardware Founder:** Spearheading **Ducofex Industries**, an emerging startup dedicated to engineering highly accessible, precision home-scale CNC machining solutions.
 * 🛡️ **Information Security & Software Developer:** Full-stack architecture with a growing specialization in network vulnerabilities, ethical hacking, and secure coding methodologies within Unix-based environments.
 * ✈️ **Aerospace & Robotics Engineer:** Former two-year technical lead for the Üsküdar UAV Team. Decorated veteran of the MEB and MEM national robotics circuits, specializing in autonomous navigation and FRC-compliant mechanics.
