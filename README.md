@@ -2,29 +2,40 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fox7524&theme=dark)](https://git.io/streak-stats)
 
-**Multidisciplinary Engineer | Aerospace & Robotics Architect | Full-Stack Developer | Cinematographer**
+**Student | Multidisciplinary Maker | Developer | Award-Winning Cinematographer | Licensed UAV Pilot**
 
-Hi. I am a 12th-grade student at Ahmet Keleşoğlu Fen Lisesi in Istanbul. I have been building and flying UAVs for over five years and writing code since the 6th grade. My work focuses on hardware-software integration, AI deployment, and aerospace mechanics. Rather than sticking to a single field, I build complete systems—from designing custom PCB layouts and formulating solid rocket propellants to training local LLMs and directing documentaries.
+Hi. I am a 12th-grade student at Ataşehir Ahmet Keleşoğlu Fen Lisesi in Istanbul. I have been building and flying UAVs for over five years and writing code since the 6th grade. My work focuses on hardware-software integration, software deployment, LLM training, aerospace, electronics and mechanics. Rather than sticking to a single field, I like to build complete systems.
 
-Below is a detailed breakdown of my projects, startup ventures, and the technical ecosystem I am currently building.
+You can read below which is a detailed breakdown of my projects, startup, and more!
 
 ---
 
-## The Lokum Ecosystem
-My primary focus in software engineering is the **Lokum Series**, a comprehensive suite of AI and software deployment tools I have been actively developing. It is designed for low-latency, localized model execution and hardware performance tuning:
+## Professional Experience
 
-* **LokumAI & Lokum-engine:** The flagship core of the ecosystem. It handles localized AI model execution, hardware tuning, and automated workflows without relying on cloud infrastructure.
-* **LokumE & LokumF:** Extended components of the Lokum ecosystem, built to manage specific environment operations and frontend interactions.
-* **Lokum-T:** The next major release in the lineup, currently in active development.
-* **Lokum-H:** A specialized, unpublished branch of the series strictly focused on cybersecurity and threat-modeling.
+### KA2 Ajans
+* Currently working professionally on KA2 Ajans.
+### MRE IOT (2025 Summer Internship)
+* Gained hands-on experience in the deployment, infrastructure management, PCB designing, and field setup of commercial Internet of Things (IoT) hardware systems.
 
+---
+
+## The Lokum Lineup
+My primary focus in software development and LLM integrity with other industries is the **Lokum Series**, a comprehensive, modular suite of AI deployment and analysis tools. The ecosystem is built upon a shared architectural foundation, where specific modules handle distinct stages of the LLM industry.:
+
+* **LokumAI:** The first generation and the core of the lineup. It provides the foundational GUI, core features, and base structure upon which all other Lokum variants are built.
+* **Lokum-engine:** A Python library (installable via `pip`) that provides the underlying RAG (Retrieval-Augmented Generation) and fine-tuning engines for the ecosystem.
+* **Lokum-E (Ethics & Behavior):** A specialized module built to test and analyze both ethical and unethical behaviors of local AI models based on industry standards.
+* **LokumF (Fair & Exhibition):** The exhibition-ready variant of LokumAI. It runs and trains cosplay-based LLMs, supporting voice inputs and generating synchronized audio-visual responses for public demonstrations.
+* **Lokum-B (Benchmark):** Testing environments designed to measure, analyze, and benchmark the performance, quality, and general-purpose capabilities of both fine-tuned and raw AI models against industry standards. *( Still under development. ).*
+* **Lokum-H:** An unpublished, specialized branch strictly focused on cybersecurity works.
+* **Lokum-T:** Testing unpublished apps which user develops. Writing security, bug tests. Executing them via local LLM's. *(Still Under Development.).*
 ---
 
 ## Startup & Business Ventures
 
 ### Ducofex Industries
-* **Founder and Lead Hardware Architect**
-* Developing compact, high-precision, desktop-sized CNC manufacturing systems aimed at bridging the gap between digital CAD modeling and rapid desktop prototyping.
+* **Co-Founder**
+* Developing compact, high-precision, desktop-sized CNC manufacturing systems with other industrial equipments. Mostly aimed at bridging the gap between digital CAD modeling and rapid desktop prototyping. 
 
 ---
 
@@ -36,53 +47,54 @@ My primary focus in software engineering is the **Lokum Series**, a comprehensiv
 ### Kelp
 * A local AI-assisted utility designed to identify, manage, and mitigate personal data exposure by tracing and mapping the discovery paths of compromised information.
 
+* Both still under development.
 ---
 
 ## Artificial Intelligence & Software Engineering
 
 ### Organisma
-* A local file organizer featuring semantic indexing. Runs natively with local LLMs for content analysis and directory structuring, with a lightweight LLM-free execution fallback.
+* A local file organizer featuring semantic indexing. Runs natively with local LLMs for content analysis and directory structuring, with a lightweight LLM-free execution fallback. *(Still under development.).*
 
 ### R-CALC & Datasheet
 * `R-CALC`: A calculation engine built for complex engineering and telemetry processing.
 * `Datasheet`: A data management and visualization platform built for rapid structural analysis.
-* Developed and deployed accompanying tools including `F1-Dashboard`.
 
 ---
 
 ## Aerospace & Robotics
 
 ### Üsküdar UAV Team
-* Served a two-year tenure as Technical Team Leader at Üsküdar BİLSEM.
-* Designed and built 8 RC planes, satellite prototypes, and conducted flight dynamic simulations utilizing XFLR5 and OpenVSP.
+* Served a two-year tenure as Team Leader at Üsküdar BİLSEM.
+* Designed and built 11 RC planes, satellite prototypes, and conducted flight dynamic simulations utilizing XFLR5 and OpenVSP.
 
 ### Custom Hardware & Propulsion
-* Built 4 RC cars, 3 RC boats, 2 RC rockets, a multi-axis robotic arm, and custom Raspberry Pi Mini Tower PCs (V1 & V2).
-* Synthesized custom solid rocket propellant (*Katı Roket Yakıtı*) and built an auto-ejecting recovery system for the Centauri Carbon project.
+* Built 4 RC cars, 3 RC boats, 1 rocket, a multi-axis robotic arm, and custom Raspberry Pi Mini Tower PCs (V1 & V2).
+* Synthesized custom solid rocket propellant and built an auto-eject printing system for the 3D printers that i own.
 
-### Robotics Competitions
-* **MEM Robotics Competition (2026):** Engineered an FRC-style robot chassis, securing 8th Place Overall and the Control Award.
+### Competitions
+* **MEM Robotics Competition (2026):** Designed and built an FRC-style robot chassis, securing 8th Place Overall and the Control Award.
 * **MEB Robotics Competitions:** Designed and programmed autonomous maze-solving robot platforms.
-
+* **:**
 ---
 
 ## Filmmaking & Media Production
 
 ### Award-Winning Documentaries & Shorts
-* ***Yitik Zamanın İzinde*** – Took 3rd place nationally at the 17th TRT International Documentary Awards (National Student Films category).
+* ***Yitik Zamanın İzinde*** – Took 3rd place nationally at the 17th TRT International Documentary Awards (National Student Films category) and broke the record of **First Award Winning and Finalist High School Film**.
 * ***Foton*** – Secured 2nd Place across Turkey (2025).
-* ***Kalem Ailem*** – Secured 2nd Place in Istanbul (2026).
-* Directed, shot, and edited cinematic shorts including *Akor*, *Zirve*, and *Validebagmun*.
+* ***Kalem Ailem*** – Secured 2nd Place in Istanbul MEB High School Short Fİlm Competition (2026).
+* * ***Yitik Zamanın İzinde*** – Took 1st place in ÇAKOB Film Competition.
+* Directed, shot, and edited cinematic shorts including ATAKFL social media contents, Couple MUNs and Summits
 
 ### Media Operations
-* Directed, filmed, and edited social media campaigns and conference coverage for Turkey's first astronaut, Alper Gezeravcı.
+* Filmed, and edited social media campaigns and conference coverage for Turkey's first astronaut, Alper Gezeravcı.
 * Managed comprehensive video and photo documentation for school-wide conferences over a two-year span.
 
 ---
 
 ## Technology Stack
 
-### Languages & Data Structures
+### Languages & Data Structures that i know/use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 * Supplementary Formats: JSON, JSONL, SQL, DB Management.
 
@@ -106,8 +118,3 @@ My primary focus in software engineering is the **Lokum Series**, a comprehensiv
 
 ### Protocols, Browsers & Community
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-
----
-
-## Technical Internships
-* **MRE IOT (Summer Internship):** Hands-on experience in the deployment, infrastructure management, and field setup of commercial Internet of Things (IoT) hardware systems.
