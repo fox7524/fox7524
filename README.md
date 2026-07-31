@@ -83,7 +83,7 @@ My primary focus in software development and LLM integrity with other industries
 * ***Yitik Zamanın İzinde*** – Took 3rd place nationally at the 17th TRT International Documentary Awards (National Student Films category) and broke the record of **First Award Winning and Finalist High School Film**.
 * ***Foton*** – Secured 2nd Place across Turkey (2025).
 * ***Kalem Ailem*** – Secured 2nd Place in Istanbul MEB High School Short Fİlm Competition (2026).
-* * ***Yitik Zamanın İzinde*** – Took 1st place in ÇAKOB Film Competition.
+* ***Yitik Zamanın İzinde*** – Took 1st place in ÇAKOB Film Competition.
 * Directed, shot, and edited cinematic shorts including ATAKFL social media contents, Couple MUNs and Summits
 
 ### Media Operations
