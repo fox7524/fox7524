@@ -2,6 +2,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fox7524&theme=dark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fox7524)](https://github.com/stats-organization/github-stats-extended)
+
+
+
 **Student | Multidisciplinary Maker | Developer | Award-Winning Cinematographer | Licensed UAV Pilot**
 
 Hi. I am a 12th-grade student at Ataşehir Ahmet Keleşoğlu Fen Lisesi in Istanbul. I have been building and flying UAVs for over five years and writing code since the 6th grade. My work focuses on hardware-software integration, software deployment, LLM training, aerospace, electronics and mechanics. Rather than sticking to a single field, I like to build complete systems.
