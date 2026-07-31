@@ -77,7 +77,7 @@ My primary focus in software development and LLM integrity with other industries
 ### Competitions
 * **MEM Robotics Competition (2026):** Designed and built an FRC-style robot chassis, securing 8th Place Overall and the Control Award.
 * **MEB Robotics Competitions:** Designed and programmed autonomous maze-solving robot platforms.
-* **:**
+* **Teknofest High School UAV Category:** Built 2.6Mt wingspan UAV with 15KG of max takeoff weight.
 ---
 
 ## Filmmaking & Media Production
