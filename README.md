@@ -1,6 +1,6 @@
 # Kayra (fox) Yılmaz
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fox7524&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fox7524&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fox7524)](https://github.com/stats-organization/github-stats-extended)
 
